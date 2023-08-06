@@ -1,8 +1,117 @@
+.container{
+    margin-bottom: 50px;
+}
+header{
+    background-color: #ffffff;
+}
 .logo{
     height: 50px;
     width: 50px;
 }
+.search-bar{
+    margin-left: 180px;
+    margin-right: 170px;
+    
+}
+.s-box{
+    width: 300px;
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+    background-color: #efecec;
+    position: relative;
+}
+.s-button{
+    margin-left: 300px;
+    padding: 4px 20px 6px 10px;
+    border-radius: 0px 50px 50px 0px;
+    background-color: #efecec;
+    position: absolute;
+    
+}
 .background{
     background-color: #fceae8;
     border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #FF136F;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #FFF;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1{
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+    padding: 5px 30px; 
+    border-radius: 10px;
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-image: linear-gradient(to bottom, #4289FF 0%, #07F8C3 100%);
+    padding: 10px 30px; 
+    border-radius: 10px;
+}
+.categories h1{
+    color: #FFF;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+.card-body{
+    text-align: center;
+}
+
+.mailback{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.mail{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.mail input{
+    border: none;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px 0px 0px 5px;
+    padding-left: 20px;
+}
+.mail button{
+    position: absolute;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 0px 5px 5px 0px;
+    color: #FFF;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.mail label{
+    margin-right: 100px;
+}
+.mail h3{
+    text-align: center;
+}
+.mail p{
+    text-align: center;
+}
+footer p{
+    text-align: center;
 }
