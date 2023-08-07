@@ -1,3 +1,3 @@
 # Ecommerce-Site
-Pleae visit here:
+Please visit here:
 https://shahriarsultan19.github.io/Ecommerce-Site/
